@@ -9,4 +9,4 @@ Before implementing this project using scikit-learns' built in algorithm for K-N
 and algorithmically by reading through this tutorial: https://www.techwithtim.net/tutorials/machine-learning-python/k-nearest-neighbors-2/.
 
 To test my algorithm I used a Car Evaluation Dataset and used it to classify cars as unacceptable, acceptable, good, or very good. 
-You can find the dataset here: https://www.kaggle.com/code/yorepi7/car-evaluation-k-nearest-neighbors/data?scriptVersionId=96953998.
+You can find the dataset here: https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set.
